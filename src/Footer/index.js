@@ -5,7 +5,7 @@ const Footer = () => {
     return(
         <footer>
             <a href='https://aquillare.netlify.app' target="blank">
-                <p>Miguel Aguilar 2022</p>
+                <p>About</p>
             </a>
             
         </footer>
